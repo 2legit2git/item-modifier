@@ -14,6 +14,7 @@
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
     <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/image-picker.css">
     <link rel="stylesheet" href="styles/bootstrap-table.css">
     <!-- endbuild -->
     <!-- build:js scripts/vendor/modernizr.js -->
@@ -30,7 +31,7 @@
           <li class="active"><a href="#">Main</a></li>
           <li><a href="#">Settings <span class="glyphicon glyphicon-cog"></span></a></li>
         </ul>
-        <h3 class="text-muted">Item Modifier v4</h3>
+        <h3 class="text-muted">Item Modifier v4.1</h3>
       </div>
       <div class="row">
         <table class="table-condensed" data-sort-name="id" data-toggle="table" data-url="data1.json" data-click-to-select="true" data-show-refresh="true" data-height="520" data-show-toggle="true" data-show-columns="true" data-pagination="true" data-search="true" data-select-item-name="toolbar1">
@@ -43,6 +44,21 @@
           </thead>
         </table>
       </div>
+      
+      <div class="row">
+          <select id="main-select" multiple="multiple" class="image-picker">
+            <option data-img-src="http://ecx.images-amazon.com/images/I/71BHTG9g1ZL._SX425_.jpg" value="mbc">Cute Kitten 1</option>
+            <option data-img-src="http://placekitten.com/180/200" value="2">Cute Kitten 2</option>
+            <option data-img-src="http://placekitten.com/130/200" value="3">Cute Kitten 3</option>
+            <option data-img-src="http://placekitten.com/270/200" value="4">Cute Kitten 4</option>
+            <option data-img-src="http://placekitten.com/270/200" value="5">Cute Kitten 3</option>
+            <option data-img-src="http://placekitten.com/270/200" value="6">Cute Kitten 4</option>
+            <option data-img-src="http://placekitten.com/270/200" value="7">Cute Kitten 4</option>
+            <option data-img-src="http://placekitten.com/270/200" value="8">Cute Kitten 6</option>
+            <option data-img-src="http://placekitten.com/270/200" value="9">Cute Kitten 4</option>
+            <option data-img-src="http://placekitten.com/270/200" value="10">Cute Kitten 4</option>
+          </select>
+      </div>	
       <div class="row">
         <form class="form-horizontal" role="form">
           <div class="form-group">
@@ -146,6 +162,7 @@
     <!-- build:js({app,.tmp}) scripts/main.js -->
     <script src="scripts/main.js"></script>
     <script src="scripts/bootstrap-table.js"></script>
+    <script src="scripts/image-picker.js"></script>
     <!-- endbuild -->
   </body>
 </html>  
