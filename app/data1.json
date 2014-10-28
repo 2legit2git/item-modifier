@@ -1,177 +1,107 @@
 [
-  {
-    "itemNumber": 4253889,
-    "title": "Adipisicing in elit tempor aute nulla mollit anim exercitation culpa sit esse.",
-    "qtyRemaining": 161,
-    "qtySold": 282,
-    "dateLastSold": "Fri Nov 04 1994 23:11:33 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 3984490,
-    "title": "Sint duis in ex sunt cillum eu.",
-    "qtyRemaining": 119,
-    "qtySold": 205,
-    "dateLastSold": "Sat Nov 27 2004 07:10:56 GMT-0500 (Eastern Standard Time)"
-  },
-  {
-    "itemNumber": 2096394,
-    "title": "Labore consequat dolore eu amet commodo ex et proident adipisicing officia aute in non dolore.",
-    "qtyRemaining": 202,
-    "qtySold": 146,
-    "dateLastSold": "Fri Jan 18 2002 15:11:25 GMT-0500 (Eastern Standard Time)"
-  },
-  {
-    "itemNumber": 5665009,
-    "title": "Eu et ad deserunt in exercitation cillum sunt labore duis magna elit non officia.",
-    "qtyRemaining": 130,
-    "qtySold": 190,
-    "dateLastSold": "Thu Dec 10 1987 03:35:25 GMT-0500 (Eastern Standard Time)"
-  },
-  {
-    "itemNumber": 5532100,
-    "title": "Culpa culpa aliquip sunt nisi.",
-    "qtyRemaining": 212,
-    "qtySold": 151,
-    "dateLastSold": "Sun Feb 09 1992 06:12:27 GMT-0500 (Eastern Standard Time)"
-  },
-  {
-    "itemNumber": 2415234,
-    "title": "Tempor est officia officia culpa.",
-    "qtyRemaining": 126,
-    "qtySold": 150,
-    "dateLastSold": "Tue Sep 07 1999 21:22:02 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 3430137,
-    "title": "Cupidatat reprehenderit qui sunt excepteur id ut et.",
-    "qtyRemaining": 300,
-    "qtySold": 141,
-    "dateLastSold": "Mon May 14 1990 06:01:50 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 1526886,
-    "title": "Elit magna aliqua laboris et ea pariatur sunt consequat aliquip consequat elit.",
-    "qtyRemaining": 261,
-    "qtySold": 255,
-    "dateLastSold": "Sat Feb 01 2003 23:09:51 GMT-0500 (Eastern Standard Time)"
-  },
-  {
-    "itemNumber": 4085688,
-    "title": "Mollit exercitation ullamco qui ea Lorem reprehenderit deserunt aliqua dolore commodo exercitation irure fugiat sunt.",
-    "qtyRemaining": 222,
-    "qtySold": 168,
-    "dateLastSold": "Sat Jan 25 1997 19:43:13 GMT-0500 (Eastern Standard Time)"
-  },
-  {
-    "itemNumber": 1051141,
-    "title": "Dolore incididunt eu occaecat excepteur ipsum qui ea culpa culpa adipisicing qui magna pariatur officia.",
-    "qtyRemaining": 158,
-    "qtySold": 283,
-    "dateLastSold": "Wed Dec 05 2007 02:53:12 GMT-0500 (Eastern Standard Time)"
-  },
-  {
-    "itemNumber": 4065046,
-    "title": "Occaecat commodo consectetur dolor deserunt esse eu velit duis tempor incididunt proident.",
-    "qtyRemaining": 156,
-    "qtySold": 207,
-    "dateLastSold": "Sat Jan 23 1982 04:44:48 GMT-0500 (Eastern Standard Time)"
-  },
-  {
-    "itemNumber": 4007727,
-    "title": "Lorem consectetur deserunt in est magna aute nostrud veniam ea ad eiusmod labore est.",
-    "qtyRemaining": 241,
-    "qtySold": 264,
-    "dateLastSold": "Fri Apr 07 1978 05:14:41 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 1465090,
-    "title": "Do dolor magna esse minim ut sint nostrud do quis veniam consequat culpa.",
-    "qtyRemaining": 262,
-    "qtySold": 218,
-    "dateLastSold": "Sat May 16 1992 09:15:53 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 5191810,
-    "title": "Aute do do labore Lorem elit exercitation ut.",
-    "qtyRemaining": 248,
-    "qtySold": 151,
-    "dateLastSold": "Fri Jul 31 1998 15:39:48 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 1938299,
-    "title": "Eu enim dolore ad fugiat adipisicing.",
-    "qtyRemaining": 114,
-    "qtySold": 107,
-    "dateLastSold": "Fri Jun 19 2009 10:12:45 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 2402332,
-    "title": "Excepteur anim mollit aute qui.",
-    "qtyRemaining": 244,
-    "qtySold": 188,
-    "dateLastSold": "Fri Apr 08 1977 05:57:57 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 3314458,
-    "title": "Lorem est amet ex minim sint elit minim cupidatat.",
-    "qtyRemaining": 246,
-    "qtySold": 191,
-    "dateLastSold": "Sun Oct 20 1996 21:43:26 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 5289152,
-    "title": "Ullamco irure nostrud ipsum nostrud.",
-    "qtyRemaining": 254,
-    "qtySold": 164,
-    "dateLastSold": "Sat Jul 20 1996 12:31:22 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 4279415,
-    "title": "Velit et pariatur mollit ex consectetur ex adipisicing irure eiusmod ex ipsum consequat eiusmod.",
-    "qtyRemaining": 106,
-    "qtySold": 291,
-    "dateLastSold": "Sat Apr 29 2000 10:20:39 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 3486215,
-    "title": "Deserunt aliquip minim irure fugiat quis reprehenderit.",
-    "qtyRemaining": 154,
-    "qtySold": 180,
-    "dateLastSold": "Sun Aug 05 2007 08:10:37 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 3020859,
-    "title": "Veniam proident eiusmod sunt irure aliqua laborum occaecat aliqua.",
-    "qtyRemaining": 123,
-    "qtySold": 139,
-    "dateLastSold": "Sun Apr 29 2001 07:57:43 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 4240421,
-    "title": "Dolore culpa deserunt enim mollit cupidatat ea elit exercitation.",
-    "qtyRemaining": 285,
-    "qtySold": 187,
-    "dateLastSold": "Fri May 04 2007 07:45:12 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 4458914,
-    "title": "Officia proident excepteur velit ea minim consequat ea mollit commodo minim nostrud proident ad proident.",
-    "qtyRemaining": 285,
-    "qtySold": 201,
-    "dateLastSold": "Wed May 31 1989 09:28:33 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 4931176,
-    "title": "Ea non sit dolore labore veniam duis aute esse do ullamco aliqua est.",
-    "qtyRemaining": 243,
-    "qtySold": 286,
-    "dateLastSold": "Thu Oct 12 1978 00:46:52 GMT-0400 (Eastern Daylight Time)"
-  },
-  {
-    "itemNumber": 4998901,
-    "title": "Aute in et non amet eiusmod labore tempor.",
-    "qtyRemaining": 266,
-    "qtySold": 180,
-    "dateLastSold": "Fri Oct 22 1999 09:45:33 GMT-0400 (Eastern Daylight Time)"
-  }
+    {
+        "id": 0,
+        "name": "Item 0",
+        "price": "$0"
+    },
+    {
+        "id": 1,
+        "name": "Item 1",
+        "price": "$1"
+    },
+    {
+        "id": 2,
+        "name": "Item 2",
+        "price": "$2"
+    },
+    {
+        "id": 3,
+        "name": "Item 3",
+        "price": "$3"
+    },
+    {
+        "id": 4,
+        "name": "Item 4",
+        "price": "$4"
+    },
+    {
+        "id": 5,
+        "name": "Item 5",
+        "price": "$5"
+    },
+    {
+        "id": 6,
+        "name": "Item 6",
+        "price": "$6"
+    },
+    {
+        "id": 7,
+        "name": "Item 7",
+        "price": "$7"
+    },
+    {
+        "id": 8,
+        "name": "Item 8",
+        "price": "$8"
+    },
+    {
+        "id": 9,
+        "name": "Item 9",
+        "price": "$9"
+    },
+    {
+        "id": 10,
+        "name": "Item 10",
+        "price": "$10"
+    },
+    {
+        "id": 11,
+        "name": "Item 11",
+        "price": "$11"
+    },
+    {
+        "id": 12,
+        "name": "Item 12",
+        "price": "$12"
+    },
+    {
+        "id": 13,
+        "name": "Item 13",
+        "price": "$13"
+    },
+    {
+        "id": 14,
+        "name": "Item 14",
+        "price": "$14"
+    },
+    {
+        "id": 15,
+        "name": "Item 15",
+        "price": "$15"
+    },
+    {
+        "id": 16,
+        "name": "Item 16",
+        "price": "$16"
+    },
+    {
+        "id": 17,
+        "name": "Item 17",
+        "price": "$17"
+    },
+    {
+        "id": 18,
+        "name": "Item 18",
+        "price": "$18"
+    },
+    {
+        "id": 19,
+        "name": "Item 19",
+        "price": "$19"
+    },
+    {
+        "id": 20,
+        "name": "Item 20",
+        "price": "$20"
+    }
 ]
